@@ -6,7 +6,7 @@ Hello there! I'm Ankur, a second-year computer science student currently in SRM 
 
 💬 Ask me about: My third eye 
 
-📫 How to reach me: Linkinthebio ;p
+📫 How to reach me: Linkinthebio ;p [https://instagram.com/ankurgohain1595]
 
 😄 Pronouns: i/dk
 
