@@ -1,4 +1,4 @@
-Hello there! I'm Ankur, a second-year computer science student currently in SRM Chennai, Ramapuram Campus. Here's some details about me!
+Hello there! I'm Ankur, a second-year computer science student currently in SRM Ramapuram, Chennai. Here's some details about me!
 
 🔭 I’m currently working on: TattleTube
 
