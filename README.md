@@ -1,5 +1,4 @@
-
-🔭 I’m currently working on: TattleTube
+🔭 I’m currently working on: TattleTube\n
 🌱 I’m currently learning: JS and fundamentals in AI 
 💬 Ask me about: My third eye 
 📫 How to reach me: [instagram.com/ankurgohain1595]
