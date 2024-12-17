@@ -2,7 +2,7 @@ Hello there! I'm Ankur, a second-year computer science student currently in SRM 
 
 🔭 I’m currently working on: TattleTube
 
-🌱 I’m currently learning: DSA, JS and React Native
+🌱 I’m currently learning: Solidity
 
 💬 Ask me about: My third eye 
 
