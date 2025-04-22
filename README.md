@@ -1,8 +1,8 @@
 Hello there! I'm Ankur, a second-year computer science student currently in SRM Ramapuram, Chennai. Here's some details about me!
 
-🔭 I’m currently working on: TattleTube
+🔭 I’m currently working on: OCR models
 
-🌱 I’m currently learning: Solidity, Ethereum
+🌱 I’m currently learning: TensorFlow
 
 💬 Ask me about: My third eye 
 
